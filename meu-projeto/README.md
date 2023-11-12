@@ -15,7 +15,7 @@ Para começar a usar este projeto, siga as instruções abaixo:
 2. Navegue até o diretório do projeto.
 
    ```shell
-   cd monitoramento-ambienta
+   cd monitoramento-ambiental
 
 3. Instale as dependências do projeto.
 
@@ -27,7 +27,7 @@ Para começar a usar este projeto, siga as instruções abaixo:
    ```shell
    npm start
 ## Credenciais de Teste
-Para fins de teste, você pode usar as seguintes credenciais:
+Para fins de teste, você pode usar as seguinte credenciais:
 
 RM: RM99209 /
 Senha: 123456
