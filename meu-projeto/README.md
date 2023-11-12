@@ -15,7 +15,7 @@ Para começar a usar este projeto, siga as instruções abaixo:
 2. Navegue até o diretório do projeto.
 
    ```shell
-   cd monitoramento-ambiental
+   cd monitoramento-ambienta
 
 3. Instale as dependências do projeto.
 
