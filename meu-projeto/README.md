@@ -10,7 +10,7 @@ Para começar a usar este projeto, siga as instruções abaixo:
 1. Clone este repositório para o seu ambiente de desenvolvimento local.
 
    ```shell
-   git clone https://github.com/Code-Genius-FIAP-ESPG/JS-Front.git
+   git clone https://github.com/KevinBeykam/Sprint-4-WEB-FRONT.git
 
 2. Navegue até o diretório do projeto.
 

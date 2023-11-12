@@ -16,7 +16,7 @@ function Body({ isLoggedIn, onLogin, errorMessage, setErrorMessage }) {
   const [password, setPassword] = useState('');
 
   const handleLoginClick = () => {
-    // Verifique as credenciais aqui
+    
     if (
       (rm === 'RM99209' && password === '123456') ||
       (rm === 'RM550154' && password === '123456') ||
@@ -34,14 +34,14 @@ function Body({ isLoggedIn, onLogin, errorMessage, setErrorMessage }) {
         <div className="content">
           <h2>Login</h2>
           {errorMessage && <p style={{ color: 'red' }}>{errorMessage}</p>}
-          {/* ... (seu código de login existente) */}
+          {}
         </div>
       )}
       {isLoggedIn && (
         <div className="content">
           <CustomBox>
-            <h2>Conteúdo Personalizado</h2>
-            <p>Este é um exemplo de conteúdo com estilos personalizados usando styled-components.</p>
+            <h2></h2>
+            <p></p>
           </CustomBox>
         </div>
       )}

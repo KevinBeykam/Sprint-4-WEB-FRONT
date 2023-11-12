@@ -6,7 +6,7 @@ const users = [
   { username: 'RM550154', password: '123456' },
   { username: 'RM99209', password: '123456' },
   { username: 'RM98919', password: '123456' },
-  // Adicione mais usuários conforme necessário
+
 ];
 
 const Login = () => {
@@ -15,7 +15,7 @@ const Login = () => {
   const navigate = useNavigate();
 
   const handleLogin = () => {
-    // Verificar se existe um usuário com o nome e senha fornecidos
+  
     const authenticatedUser = users.find(
       (user) => user.username === username && user.password === password
     );

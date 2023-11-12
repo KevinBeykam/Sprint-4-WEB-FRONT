@@ -1,6 +1,6 @@
-// Home.js
+
 import React from 'react';
-import Footer from './Footer'; // Certifique-se de que o caminho do seu arquivo Footer está correto
+import Footer from './Footer'; 
 import './estilo.css';
 
 const Home = ({ user }) => {
