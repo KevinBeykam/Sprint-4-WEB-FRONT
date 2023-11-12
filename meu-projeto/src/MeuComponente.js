@@ -1,7 +1,7 @@
-// MeuComponente.js (ou o nome do seu componente)
+// UsuariosComponente.js
 import React, { useEffect, useState } from 'react';
 
-const MeuComponente = () => {
+const UsuariosComponente = () => {
   const [usuarios, setUsuarios] = useState([]);
 
   useEffect(() => {
@@ -30,4 +30,4 @@ const MeuComponente = () => {
   );
 };
 
-export default MeuComponente;
+export default UsuariosComponente;
